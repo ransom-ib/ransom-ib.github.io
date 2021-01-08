@@ -54,7 +54,7 @@
     padding: 9px 25px;
     background-color: rgb(145, 28, 28);
     border: none;
-    border-radius: 50px;
+    border-radius: 0px;
     cursor: pointer;
     transition: background-color 0.3s ease 0s;
   }
